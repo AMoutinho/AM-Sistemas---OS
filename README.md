@@ -1,6 +1,8 @@
 <!-- <p align=center><img align="center" src="https://i.imgur.com/mJVNDrE.png" height="55" width="60"/> AM Sistemas - OS <img align="center" src="https://i.imgur.com/mJVNDrE.png" height="55" width="60"/></p> -->
 
-<p align=center><img align="center" src="https://i.imgur.com/RcjjcoZ.png" height="350" width="350"/></p>
+<!-- <p align=center><img align="center" src="https://i.imgur.com/RcjjcoZ.png" height="350" width="350"/></p> -->
+
+# <p align=center> AM Sistemas - OS <p>
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;
@@ -23,18 +25,18 @@
 
 <div style="display: inline_block">
 <!-- LOGOS JAVA | MySQL | NetBeans -->   
-<img align="center" src="https://i.imgur.com/acukaK2.png" width="300"/>
+<img align="center" src="https://i.postimg.cc/bJJS1g6G/Logos.png" width="300"/>
   
-<h2 id="screenshots">Screenshots 📸</h2>
+ <!--<h2 id="screenshots">Screenshots 📸</h2>
 
-  <!--<b><i>EM BREVE...</i></b>-->
+ <b><i>EM BREVE...</i></b>
 
 <img align="center" src="https://i.imgur.com/TKh36ax.png" width="300"/> 
 <img align="center" src="https://i.imgur.com/K4A7cF0.png" width="300"/> 
 <img align="center" src="https://i.imgur.com/c5BeO8B.png" width="300"/> 
-<img align="center" src="https://i.imgur.com/AZfETiY.png" width="300"/>   
+<img align="center" src="https://i.imgur.com/AZfETiY.png" width="300"/>   -->
 
-<h2 id="demoprojeto">Instalação <img align="center" src="https://i.imgur.com/EWZi3bs.png" width="35"/></h2>
+<h2 id="demoprojeto">Instalação 📥</h2>
 
 *1)* Execute o script do banco de dados, para cria-lo (utilize o SGBD MySQL que for de sua preferência).<br>
 *2)* Abra o projeto no NetBeans (pode ser utilizado o eclipse, porém este projeto foi construído no NetBeans).<br>
